@@ -1,3 +1,3 @@
-C:\Users\Aleksi\Documents\Unreal Projects\Darcade\Source\Darcade\Darcade.Build.cs
-C:\Users\Aleksi\Documents\Unreal Projects\Darcade\Source\Darcade.Target.cs
-C:\Users\Aleksi\Documents\Unreal Projects\Darcade\Source\DarcadeEditor.Target.cs
+C:\Users\juiss\Desktop\TridentUE4Project2016\Darcade\Source\Darcade\Darcade.Build.cs
+C:\Users\juiss\Desktop\TridentUE4Project2016\Darcade\Source\Darcade.Target.cs
+C:\Users\juiss\Desktop\TridentUE4Project2016\Darcade\Source\DarcadeEditor.Target.cs
