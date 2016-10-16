@@ -16,6 +16,8 @@
 *.dylib
 *.dll
 
+*.log
+
 # Fortran module files
 *.mod
 
@@ -47,7 +49,7 @@ SourceArt/**/*.tga
 Binaries/*
 
 # Log files
-Saved/Logs/*
+Saved/*
 
 # Builds
 Build/*
@@ -63,4 +65,3 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-*.log
