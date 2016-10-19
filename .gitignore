@@ -16,6 +16,8 @@
 *.dylib
 *.dll
 
+*.log
+
 # Fortran module files
 *.mod
 
@@ -45,6 +47,9 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+
+# Log files
+Saved/*
 
 # Builds
 Build/*
