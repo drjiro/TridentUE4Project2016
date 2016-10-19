@@ -1,3 +1,3 @@
-C:\Users\juiss\Desktop\TridentUE4Project2016\Darcade\Source\Darcade\Darcade.Build.cs
-C:\Users\juiss\Desktop\TridentUE4Project2016\Darcade\Source\Darcade.Target.cs
-C:\Users\juiss\Desktop\TridentUE4Project2016\Darcade\Source\DarcadeEditor.Target.cs
+D:\GitRepositories\TridentUE4Project2016\Darcade\Source\Darcade\Darcade.Build.cs
+D:\GitRepositories\TridentUE4Project2016\Darcade\Source\Darcade.Target.cs
+D:\GitRepositories\TridentUE4Project2016\Darcade\Source\DarcadeEditor.Target.cs
