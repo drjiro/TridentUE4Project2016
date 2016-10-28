@@ -16,6 +16,8 @@
 *.dylib
 *.dll
 
+*.log
+
 # Fortran module files
 *.mod
 
@@ -45,6 +47,10 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+Darcade/Binaries/*
+Darcade/Saved/*
+# Log files
+Saved/*
 
 # Builds
 Build/*
