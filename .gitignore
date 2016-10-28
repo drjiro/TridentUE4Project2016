@@ -49,6 +49,7 @@ SourceArt/**/*.tga
 Binaries/*
 Darcade/Binaries/*
 Darcade/Saved/*
+Darcade/Intermediate/*
 # Log files
 Saved/*
 
