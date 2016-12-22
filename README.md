@@ -1,46 +1,34 @@
-# TridentUE4Project2016
-2 month long international game project done using Unreal Engine 4
+# Pride
+A 2 month long game project created as an international school project at Trident College of Information Technology in Nagoya, Japan. 
+
+Team size: 14
 
 Tools used: 
-Unreal Engine 4.13.1
+Unreal Engine 4.13
 GitHub
 Trello
 Visual Studio 2015
 
-Base Design
+Game design:
 
-- Boss rush (3)
-	- Bosses act in different ways
-	- Stages
-	- Bosses require different mechanics to be used in order to defeat them
-	- armored, summoner, flying/sniper?
-- Control weapon by rotating gamepad's right stick
-- 2-3 different weapon types
-	- heavy and light melee weapons
-		- Heavy: hammer
-		- Light: sword
-	- one ranged weapon
-		- harpoon/spear with a chain
-			- can be charged for extra damage and effect
-- Defeated bosses drop weapon upgrades
-	- Upgrade one weapon
-	- Upgrades have different effects on different weapons
-- Bosses can kill you on one hit
+- Third person action RPG played with a gamepad
+- One stage
+- One boss
+- Smaller enemies that distract and hinder the player
+- The player must defeat the boss to pass the stage
+- The player dies on one hit but has four lives
+- The player has three weapons:
+	- Hammer used to break armor
+	- Sword used to cut flesh
+	- Javelin used for ranged attacks
+- Level mechanics:
+	- destroyable pillars, that stun the boss if it charges into them
+	- Two respawn positions
+- Gameplay:
+	- Attacks are done by rotating the right gamepad stick
+	- Camera is controlled by gamepad triggers or by pressing the lock-on button to lock camera to the boss
+	- Dash to avoid enemy attacks
+	- Hold down javelin button to keep holding the javelin in hand and aim with the right gamepad stick
+	- Break the boss' armor to be able to deal damage to it
 
-
-- ボスラッシュ
-	-ボスは各自違う行動をする
-	-ボスにはそれぞれ違う特徴がある
-	-鎧、召喚等
--ゲームパッドの右スティックを使って武器を操作します
--2~3種類の異なる武器がある
-	-重くて軽い乱戦用の武器
-		-重いハンマー
-		-軽いソード
-	-１つは範囲武器
-		-銛(もり)と鎖を合わせたような
-			-溜め(チャージ)攻撃で追加ダメージと効果があります
--ボスを倒すと武器を改良するドロップがでます
-	-１つの武器を改良する
-	-改良すると異なる効果を持った異なる武器になります
--ボスはプレイヤーを１撃で倒すことができる
+Videos: https://www.youtube.com/playlist?list=PLOUuYT9gYjxQbtBYxfXwM59KfR-hLEDNu
